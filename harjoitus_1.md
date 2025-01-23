@@ -24,6 +24,25 @@ Ohjeiden mukainen kuva Powershellistä, komennolla `Get-NetAdapter`
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/594274ab-81ca-4c50-bbdd-6279a23bf832" />
 
 
+### IPv4-osoitteen määrittäminen 
+
+Avansin Network ja Sharing Centeristä HyperVVSwitchin -> Properties ->IPv4 -> Properties määritin ohjeen mukaiset asetukset, näkyvät kuvassa. 
+
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/ee676cfa-309e-4958-b227-72e6057d49a1" />
+
+### Virtuaaliverkon osoitteenmuunnos (NAT) 
+
+Avasin Powershellin järjestelmänvalvojana (windows nappi -> Powershell -> Right-click -> run as administrator 
+Tämän jälkeen suoritin seuraavat komennot Powershellissä 
+
+<img width="429" alt="image" src="https://github.com/user-attachments/assets/535ee103-2140-4570-8f4b-e6fabb67b948" />
+
+Tehtävä 1 tekeminen päättyi 23.1.2025 19:29
+
+
+
+
+
 
 
 
