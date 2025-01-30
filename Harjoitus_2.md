@@ -30,7 +30,49 @@ Uusi Kone näkyi kohdassa Virtual Machines
 
 ### Prosessiytimien säätäminen
 
-Klikkasin luodun koneen aktiiviseksi ja valitsin Settings. Setting valikosta menin kohtaan Processors ja muutin Virtuaaliprosessorien määrän 1 -> 4
+Klikkasin luodun koneen aktiiviseksi ja valitsin Settings. Setting valikosta menin kohtaan Processors ja muutin Virtuaaliprosessorien määrän 1 -> 4 -> Apply -> Ok
 
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/5435dad0-567f-4bf3-aa2f-847a4b3c16f2" />
+
+## Windows asentaminen
+
+Aloitin käynnistämnällä tässä Raportissa kuvatun virtuaalitietokoneen
+
+Tietokoneen ruutu alkoi pomppia ja vaihdella kokoa, korjasin tialnteen valitsemalla view -> Zoom level 100% 
+
+### Asetukset
+Kieli: Engalnti US Aikavyöhyke: Finland Keyboard: Finland -> Next
+
+Aloitin asennuksen painamalla Install now 
+
+Hyväksyin lisenssit, täppä ruutuun -> Next 
+
+Valitaan Custom Install Windows only (adcanced) 
+
+Jatkoin seuraavasta kohdasta next painikkeella, koska levytilan allokointi ei ollut pakollista 
+
+Odotin Windowsin asentumista asennus aloitettu 11:43 
+
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/640987b9-fb5f-45c8-be1c-ee028adb8296" />
+
+Asennus oli päättynyt 11:56 
+
+Tämän jälkeen käynnistin koneen uudelleen. Kun Windows käynnistyslogo tuli ruudulle painoin media, DVD Drive ja Eject SW..... (Oletan ettei kone lähde asentamaan käyttöjärjestelmää uudelleen)
+
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/5e15a546-da05-4343-8634-9b631fe10327" />
+
+Lopuksi asetin salasanat ohjeiden määrittämiin asetuksiin.
+
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/13b99f16-5f22-4df0-ac95-19c3140d4a35" />
+
+Lopuksi vielä painoin action valikosta ctrl alt del ja testasin että käyttäjä toimii 
+
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/25d31368-9898-43a4-a0ed-4648c386e700" />
+
+Asennuksen jälkeen käytin hetken tutustuessani Server manageriin,
+
+Raportti päättyy 30.1.2025 11:58 
+
+
+
 
