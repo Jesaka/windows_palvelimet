@@ -159,6 +159,10 @@ Dashboardissa näkyy tällä hetkellä asennettuna keskeiset toimialueen ohjausp
 Ohjauspalvelimen asennus tuntui helpolta, ohjeet olivat selkeät eikä asennuksen kanssa tullut uusia ongelmia. Opin käyttämään ohjeessa annettuja kometopäätteen komentoja ja sain kertauksen ip osoitteiden konfiguroinnista. 
 
 
+Lähteet: 
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hhmoodle.haaga-helia.fi/pluginfile.php/4144268/mod_resource/content/16/3_Toimialueen_ydin_ohjauspalvelin_V3.0.pdf
+
 
 
 
